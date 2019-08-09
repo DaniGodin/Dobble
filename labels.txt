@@ -1,0 +1,60 @@
+1: lunettes
+2: cible
+3: sens interdit
+4: clown
+5: ancre
+6: bonhomme de neiges
+7: éclair
+8: araignée
+9: point d'exclamation
+10: point d'interrogation
+11: tâches
+12: fantôme
+13: bombe
+14: carotte
+15: dragon
+16: arbre
+17: oeil
+18: voiture
+19: lune
+20: petit bonhomme
+21: horloge
+22: coeur
+23: toîle d'araignée
+24: oiseau
+25: feu
+26: ying yang
+27: cactus
+28: goutte
+29: cadenas
+30: marteau
+31: pomme
+32: crayon
+33: tête de mort
+34: chien
+35: flocon
+36: fleur
+37: dauphin
+38: gant
+39: cheval echec
+40: coccinelle
+41: tortue
+42: glaçon
+43: trèfle
+44: fromage
+45: clef de sol
+46: ciseau
+47: lèvres
+48: igloo
+49: chaton
+50: zèbre
+51: clef de porte
+52: feuille canada
+53: soleil
+54: biberon
+55: T rex
+56: ampoule
+57: bougie
+
+
+
